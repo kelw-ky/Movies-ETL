@@ -242,6 +242,10 @@ def extract_transform_load():
 ## Result
 After adding movies_df and MovieLens rating CSV data to a SQL Database. The movies table has 6,052 rows and the ratings table has 26,024,289 rows, as shown below. 
 
-![movies_query](/Resources/movies_query.png) ![ratings_query](/Resources/ratings_query.png)
+
+<center>
+    <img src="Resources/movies_query.png">
+    <img src="Resources/ratings_query.png">
+</center>
 
 
